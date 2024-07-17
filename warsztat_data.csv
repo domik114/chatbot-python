@@ -1,0 +1,110 @@
+id,nazwa_usterki,opis_usterki,model_samochodu
+1,Problemy z silnikiem,Samochód traci moc,Toyota Corolla
+2,Awaria hamulców,Hamulce ścierają się nierównomiernie,Ford Focus
+3,Problemy z układem wydechowym,Głośne dźwięki podczas jazdy,Chevrolet Cruze
+4,Usterki elektryczne,Problemy z rozrusznikiem,Volkswagen Golf
+5,Problemy z amortyzacją,Pocierające dźwięki na nierównościach,Honda Civic
+6,Usterki w systemie chłodzenia,Przegrzewanie silnika,Hyundai Elantra
+7,Problemy z skrzynią biegów,Trudności w przełączaniu biegów,Mazda 3
+8,Usterki w systemie paliwowym,Samochód traci moc podczas jazdy,Subaru Impreza
+9,Usterki w systemie klimatyzacji,Nieefektywne chłodzenie powietrza,Nissan Altima
+10,Problemy z silnikiem,Spadek mocy podczas jazdy,Toyota Camry
+11,Awaria hamulców,Opóźniona reakcja hamulców,Honda Accord
+12,Usterki elektryczne,Nieprawidłowe działanie świateł,Volkswagen Jetta
+13,Problemy z amortyzacją,Wstrząsy podczas jazdy po nierównościach,Ford Fusion
+14,Usterki w systemie chłodzenia,Przecieki płynu chłodniczego,Chevrolet Malibu
+15,Problemy z układem wydechowym,Dymienie z rury wydechowej,Hyundai Sonata
+16,Usterki w systemie paliwowym,Trudności w rozruchu silnika,Nissan Sentra
+17,Problemy z silnikiem,Samoczynne zgaszenie silnika,Toyota Prius
+18,Awaria hamulców,Wibracje podczas hamowania,Ford Escape
+19,Problemy z układem wydechowym,Problemy z katalizatorem,Chevrolet Equinox
+20,Usterki elektryczne,Awaria centralnego zamka,Volkswagen Tiguan
+21,Problemy z amortyzacją,Stukanie w zawieszeniu,Honda CR-V
+22,Usterki w systemie chłodzenia,Nadmierne zużycie płynu chłodniczego,Hyundai Tucson
+23,Problemy z skrzynią biegów,Trzeszczenie podczas zmiany biegów,Mazda CX-5
+24,Usterki w systemie paliwowym,Wycieki paliwa,Subaru Outback
+25,Problemy z układem wydechowym,Głośne trzaski podczas jazdy,Chevrolet Traverse
+26,Usterki w systemie klimatyzacji,Nagły spadek wydajności chłodzenia,Nissan Rogue
+27,Problemy z silnikiem,Wybuchy w gaźniku,Toyota RAV4
+28,Awaria hamulców,Nierówna praca hamulców,Ford Explorer
+29,Problemy z układem wydechowym,Uszkodzony tłumik,Chevrolet Silverado
+30,Usterki elektryczne,Niesprawne szyby elektryczne,Volkswagen Atlas
+31,Problemy z amortyzacją,Tłumiki wydają nietypowe dźwięki,Honda Pilot
+32,Usterki w systemie chłodzenia,Wycieki płynu chłodniczego z pompy wodnej,Hyundai Santa Fe
+33,Problemy z skrzynią biegów,Przeskakiwanie biegów,Mazda CX-9
+34,Usterki w systemie paliwowym,Wysoka konsumpcja paliwa,Subaru Forester
+35,Problemy z układem wydechowym,Świst podczas jazdy na wyższych obrotach,Chevrolet Tahoe
+36,Usterki w systemie klimatyzacji,Brak chłodzenia w jednej strefie,Nissan Pathfinder
+37,Problemy z silnikiem,Nierówna praca na biegu jałowym,Toyota Highlander
+38,Awaria hamulców,Piski i trzeszczenia podczas hamowania,Ford Edge
+39,Problemy z układem wydechowym,Problemy z czujnikiem tlenu,Chevrolet Suburban
+40,Usterki elektryczne,Awaria radia samochodowego,Volkswagen Passat
+41,Problemy z amortyzacją,Tłumiki wydają nietypowe dźwięki,Honda Odyssey
+42,Usterki w systemie chłodzenia,Wycieki oleju z amortyzatorów,Hyundai Kona
+43,Problemy z skrzynią biegów,Trudności w wrzucaniu biegu wstecznego,Mazda MX-5
+44,Usterki w systemie paliwowym,Problemy z wtryskiem paliwa,Subaru Legacy
+45,Problemy z silnikiem,Nierówna praca na zimnym silniku,Toyota Sienna
+46,Awaria hamulców,Opóźniona reakcja hamulców,Ford Mustang
+47,Problemy z układem wydechowym,Głośne dźwięki w okolicach katalizatora,Chevrolet Colorado
+48,Usterki elektryczne,Nieprawidłowe działanie systemu ABS,Volkswagen Beetle
+49,Problemy z amortyzacją,Wstrząsy podczas jazdy po nierównościach,Honda Fit
+50,Usterki w systemie chłodzenia,Przegrzewanie silnika na postoju,Hyundai Veloster
+51,Problemy z skrzynią biegów,Stukanie podczas zmiany biegów,Mazda CX-3
+52,Usterki w systemie paliwowym,Problemy z czujnikiem paliwa,Subaru Crosstrek
+53,Problemy z układem wydechowym,Stłumione dźwięki z rury wydechowej,Chevrolet Volt
+54,Usterki w systemie klimatyzacji,Nagły spadek wydajności chłodzenia,Nissan Murano
+55,Problemy z silnikiem,Wibracje silnika podczas jazdy,Toyota Yaris
+56,Awaria hamulców,Opóźniona reakcja hamulców,Ford Fiesta
+57,Problemy z układem wydechowym,Głośne trzaski podczas jazdy,Chevrolet Sonic
+58,Usterki elektryczne,Niesprawny wskaźnik paliwa,Volkswagen Polo
+59,Problemy z amortyzacją,Stukanie w zawieszeniu,Honda HR-V
+60,Usterki w systemie chłodzenia,Nadmierne zużycie płynu chłodniczego,Hyundai Ioniq
+61,Problemy z skrzynią biegów,Trzeszczenie podczas zmiany biegów,Mazda6
+62,Usterki w systemie paliwowym,Wycieki paliwa,Subaru Ascent
+63,Problemy z układem wydechowym,Głośne dźwięki podczas jazdy,Chevrolet Blazer
+64,Usterki w systemie klimatyzacji,Nagły spadek wydajności chłodzenia,Nissan Maxima
+65,Problemy z silnikiem,Wybuchy w gaźniku,Toyota 4Runner
+66,Awaria hamulców,Nierówna praca hamulców,Ford Bronco
+67,Problemy z układem wydechowym,Uszkodzony tłumik,Chevrolet Trax
+68,Usterki elektryczne,Awaria centralnego zamka,Volkswagen Arteon
+69,Problemy z amortyzacją,Wycieki oleju z amortyzatorów,Honda Ridgeline
+70,Usterki w systemie chłodzenia,Niezależne przegrzewanie się poszczególnych cylindrów,Hyundai Palisade
+71,Problemy z skrzynią biegów,Przeskakiwanie biegów,Mazda CX-30
+72,Usterki w systemie paliwowym,Wysoka konsumpcja paliwa,Subaru WRX
+73,Problemy z układem wydechowym,Świst podczas jazdy na wyższych obrotach,Chevrolet Trailblazer
+74,Usterki w systemie klimatyzacji,Brak chłodzenia w jednej strefie,Nissan Titan
+75,Problemy z silnikiem,Nierówna praca na biegu jałowym,Toyota Tacoma
+76,Awaria hamulców,Piski i trzeszczenia podczas hamowania,Ford Maverick
+77,Problemy z układem wydechowym,Problemy z czujnikiem tlenu,Chevrolet Express
+78,Usterki elektryczne,Niesprawne szyby elektryczne,Volkswagen Tiguan
+79,Problemy z amortyzacją,Tłumiki wydają nietypowe dźwięki,Honda Insight
+80,Usterki w systemie chłodzenia,Wycieki płynu chłodniczego z pompy wodnej,Hyundai Venue
+81,Problemy z skrzynią biegów,Trudności w wrzucaniu biegu wstecznego,Mazda Miata
+82,Usterki w systemie paliwowym,Problemy z wtryskiem paliwa,Subaru BRZ
+83,Problemy z silnikiem,Nierówna praca na zimnym silniku,Toyota 86
+84,Awaria hamulców,Opóźniona reakcja hamulców,Ford Ranger
+85,Problemy z układem wydechowym,Głośne dźwięki w okolicach katalizatora,Chevrolet Colorado ZR2
+86,Usterki elektryczne,Nieprawidłowe działanie systemu ABS,Volkswagen Atlas Cross Sport
+87,Problemy z amortyzacją,Wstrząsy podczas jazdy po nierównościach,Honda Passport
+88,Usterki w systemie chłodzenia,Przegrzewanie silnika na postoju,Hyundai Nexo
+89,Problemy z skrzynią biegów,Stukanie podczas zmiany biegów,Mazda CX-9
+90,Usterki w systemie paliwowym,Problemy z czujnikiem paliwa,Subaru Crosstrek
+91,Problemy z układem wydechowym,Stłumione dźwięki z rury wydechowej,Chevrolet Silverado Trail Boss
+92,Usterki w systemie klimatyzacji,Nagłe przegrzewanie się kompresora,Nissan Titan XD
+93,Problemy z silnikiem,Wibracje silnika podczas jazdy,Toyota Tundra
+94,Awaria hamulców,Opóźniona reakcja hamulców,Ford F-150 Lightning
+95,Problemy z układem wydechowym,Głośne trzaski podczas jazdy,Chevrolet Camaro
+96,Usterki elektryczne,Niesprawny wskaźnik paliwa,Volkswagen Golf GTI
+97,Problemy z amortyzacją,Stukanie w zawieszeniu,Honda CR-Z
+98,Usterki w systemie chłodzenia,Nadmierne zużycie płynu chłodniczego,Hyundai Veloster N
+99,Problemy z skrzynią biegów,Trzeszczenie podczas zmiany biegów,Mazda MX-5 RF
+100,Usterki w systemie paliwowym,Problemy z wtryskiem paliwa,Subaru Outback Wilderness
+101,Problemy z silnikiem,Nierówna praca na zimnym silniku,Toyota GR Supra
+102,Awaria hamulców,Piski i trzeszczenia podczas hamowania,Ford Mustang Mach-E
+103,Problemy z układem wydechowym,Problemy z czujnikiem tlenu,Chevrolet Corvette Stingray
+104,Usterki elektryczne,Niesprawne szyby elektryczne,Volkswagen ID.4
+105,Problemy z amortyzacją,Tłumiki wydają nietypowe dźwięki,Honda Odyssey
+106,Usterki w systemie chłodzenia,Wycieki oleju z amortyzatorów,Hyundai Palisade Calligraphy
+107,Problemy z skrzynią biegów,Trudności w wrzucaniu biegu wstecznego,Mazda CX-30 Turbo
+108,Usterki w systemie paliwowym,Wysoka konsumpcja paliwa,Subaru WRX STI
+109,Problemy z układem wydechowym,Świst podczas jazdy na wyższych obrotach,Chevrolet Trailblazer RS
